@@ -1,0 +1,8 @@
+marquee {
+    color: red;
+}
+body {
+    background: linear-gradient(purple, yellow, red);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
