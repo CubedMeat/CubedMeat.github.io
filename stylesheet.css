@@ -1,5 +1,6 @@
 marquee {
     color: red;
+    animation: color-change 1s infinite;
 }
 body {
     background: linear-gradient(purple, yellow, red);
