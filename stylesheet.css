@@ -29,6 +29,7 @@ h1 {
     width: 50%;
     margin-left: 25%;
     height: 600px;
+    float: left;
 }
 p {
     animation: color-change 1s infinite;
