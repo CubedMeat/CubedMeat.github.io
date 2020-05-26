@@ -22,4 +22,6 @@ h1 {
     background: linear-gradient(green,blue,purple);
     background-repeat: no-repeat;
     background-attachment: fixed;
+    width: 50%;
+    margin-left: 50%;
 }
