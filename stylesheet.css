@@ -16,3 +16,10 @@ h1 {
   50% { color: blue; }
   100% { color: red; }
 }
+.pasta {
+    text-align: right;
+    border: 5px outset blue;
+    background: linear-gradient(green,blue,purple);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
