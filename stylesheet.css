@@ -20,7 +20,6 @@ h1 {
     border: 5px outset blue;
     background: linear-gradient(green,blue,purple);
     background-repeat: no-repeat;
-    background-attachment: fixed;
     width: 50%;
     margin-left: 50%;
 }
