@@ -22,4 +22,5 @@ h1 {
     background-repeat: no-repeat;
     width: 50%;
     margin-left: 50%;
+    animation: color-change 1s infinite;
 }
