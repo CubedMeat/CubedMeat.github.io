@@ -43,10 +43,11 @@ p {
 }
 .siberia {
     border: 5px outset yellow;
-    width: 25%;
+    width: 20%;
     float: left;
     margin-left: 0px;
     margin-right: 0px;
     background: radial-gradient(yellow, green, red);
     background-repeat: no-repeat;
+    text-align: center;
 }
