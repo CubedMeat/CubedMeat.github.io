@@ -49,3 +49,10 @@ p {
     background-repeat: no-repeat;
     text-align: center;
 }
+.xp {
+    border: 7px outset purple;
+    width: 70%;
+    backgroind: linear-gradient(green, purple, yellow);
+    background-repeat: no-repeat;
+}
+h2 {
