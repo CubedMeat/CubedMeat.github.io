@@ -52,7 +52,10 @@ p {
 .xp {
     border: 7px outset purple;
     width: 70%;
-    backgroind: linear-gradient(green, purple, yellow);
+    background: linear-gradient(green, purple, yellow);
     background-repeat: no-repeat;
 }
 h2 {
+    letter-spacing: 5px;
+    animation: color-change 1s infinite;
+}
