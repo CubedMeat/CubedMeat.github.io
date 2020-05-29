@@ -56,6 +56,6 @@ p {
     background-repeat: no-repeat;
 }
 h2 {
-    letter-spacing: 5px;
+    letter-spacing: 100px;
     animation: color-change 1s infinite;
 }
