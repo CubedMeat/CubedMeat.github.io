@@ -61,3 +61,10 @@ h2 {
     letter-spacing: 100px;
     animation: color-change 1s infinite;
 }
+.translate {
+    border: 5px outset red;
+    width: 69%;
+    margin-left: 32%;
+    text-align: right;
+    background: radial-gradient(red, brown, purple, green);
+}
