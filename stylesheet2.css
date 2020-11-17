@@ -9,4 +9,8 @@
   animation-duration: 10s;
   animation-iteration-count: infinite;
   animation-direction: alternate;
+  float: right;
+  width: 10%;
+  height: 30px;
+  border: 9px outset purple;
 }
