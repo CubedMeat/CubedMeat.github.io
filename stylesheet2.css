@@ -1,12 +1,6 @@
 @keyframes background {
-  12.5% {background-color: red;}
-  25% {background-color: orange;}
-  37.5% {background-color: yellow;}
-  50% {background-color: green;}
-  62.5% {background-color: blue;}
-  75% {background-color: purble;}
-  87.5% {background-color: indigo;}
-  100% {background-color: violet;}
+  0% {background-color: #00fff7;}
+  50% {background-color: #51ff00;}
 }
 
 body {
