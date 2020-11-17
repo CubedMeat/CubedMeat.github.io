@@ -1,11 +1,11 @@
-@keyframes background {
+@keyframes box-background {
   0% {background-color: #00fff7;}
   100% {background-color: #51ff00;}
 }
 
-body {
+.box1 {
   background-color: #00fff7;
-  animation-name: background;
+  animation-name: box-background;
   animation-duration: 10s;
   animation-iteration-count: infinite;
   animation-direction: alternate;
