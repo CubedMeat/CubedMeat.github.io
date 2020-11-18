@@ -14,3 +14,11 @@
   height: 30px;
   border: 9px outset purple;
 }
+
+.board {
+  background: linear-gradient(darkblue, blue, lightblue, cyan);
+  width: 75%;
+  margin-left: 25%;
+  height: 3000px;
+  border: 12px outset green;
+}
