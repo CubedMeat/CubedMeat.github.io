@@ -24,3 +24,10 @@
   border: 12px outset green;
   padding: 0px;
 }
+
+.obstacle {
+  background: radial-gradient(#ff1100, #ad0c00);
+  width: 60%;
+  height: 30px;
+  boarder: 9pxl outstet red;
+}
