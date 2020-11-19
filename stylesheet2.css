@@ -29,5 +29,7 @@
   background: radial-gradient(#ff1100, #ad0c00);
   width: 60%;
   height: 30px;
-  boarder: 9pxl outstet red;
+  border: 9px outstet red;
+  margin-right: 60%;
+  margin-top: 60px;
 }
