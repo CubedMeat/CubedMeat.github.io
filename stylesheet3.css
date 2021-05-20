@@ -3,6 +3,6 @@
 }
 
 body {
-  background-image: "chez.png";
+  background-image: url=(chez.png);
   
 }
